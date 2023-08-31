@@ -1,4 +1,4 @@
-# azure_intro_assessment
+# Azure_intro_assessment
 
 This is Assignment 1 - Azure Intro
 
